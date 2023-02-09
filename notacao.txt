@@ -1,0 +1,9 @@
+1 - Instalação do node
+
+
+2- comando execução do npm 
+    - npm initi
+    - npm run "nome do objeto JSON"
+
+3- comando de instalação de pacotes framework
+    -
